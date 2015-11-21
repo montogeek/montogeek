@@ -1,7 +1,7 @@
 {
-  "name": "rauchg",
+  "name": "montogeek",
   "version": "3.0.0",
-  "description": "Guillermo Rauch",
+  "description": "Fernando Montoya",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat index.json"
@@ -11,6 +11,6 @@
     "contact"
   ],
   "main": "./index.json",
-  "author": "Guillermo Rauch",
+  "author": "Fernando Montoya",
   "license": "ISC"
 }

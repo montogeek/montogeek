@@ -1,22 +1,20 @@
 
-# rauchg
-
-![](https://cldup.com/tBDGZcr8jt.gif)
+# montogeek
 
 ```bash
-$ npm install rauchg
+$ npm install montogeek
 ```
 
 and
 
 ```js
-console.log(require('rauchg'));
+console.log(require('montogeek'));
 ```
 
 To get my contact information.
 
 ## Credits
 
-Thanks to John K Paul for the idea, and this
-[tweet](https://twitter.com/RedWolves/status/667848798484324352) for 
+Thanks to John K Paul for the idea (via Guillermo Rauch), and this
+[tweet](https://twitter.com/RedWolves/status/667848798484324352) for
 pointing it out!
