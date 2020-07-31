@@ -9,6 +9,9 @@
 - A CSS3 animation editor that supports keyframes drag and drop and SVG.
 - A React Hook called `useCSSDebug()` which injects `html *, body * { outline: 1px solid rebeccapurple }`.
 
+## Utilities
+- A Reddit bookmark manager.
+
 ```bash
 $ npm install montogeek
 ```
